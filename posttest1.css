@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+p{
+    position: relative;
+    left: 400px;
+}
+img {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    left: 400px;
+} 
+ul {
+    position: relative;
+    left: 400px;
+    list-style-position: inside;
+} 
+li {
+    position: relative;
+    top: -33px;
+    left: 10px;
+} 
+a {
+    position: relative;
+    left: 500px;
+}
+table, tr, th ,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+.nomor{
+    width: 10px;
+    background-color: green;
+}
+th{
+    padding: 10px;
+}
+.jdwl{
+    width: 400px;
+    background-color: yellow;
+}
+td{
+    padding: 10px;
+}
